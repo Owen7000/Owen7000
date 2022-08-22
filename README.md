@@ -1,1 +1,1 @@
-/github-header-image.png
+[](/github-header-image.png)

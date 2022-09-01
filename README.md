@@ -6,4 +6,5 @@ My aim as a developer is to make life easier for everyone, one project at a time
 ## Repo's I'm proud of:
 <br>[Hello World](https://github.com/Owen7000/HelloWorld), Hello World is a crowdsourced collection of Hello World programs from many different programming languages as possible. with the aim of helping new developers see which languages they prefer the most and which they think will be easiest for them to learn. (Feel free to contribute)
 
-[MY OctoCat](octocat-1661175365462.png)
+[MY OctoCat](https://myoctocat.com/assets/images/base-octocat.svg)
+

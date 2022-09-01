@@ -1,3 +1,4 @@
+![GitHub followers](https://img.shields.io/github/followers/Owen7000?style=social)<br>
 ![Header](https://github.com/Owen7000/Owen7000/blob/f6097f9a4dcaac9ad687a4a9c6114d88c98dcb08/github-header-image%20(1).png)<br><br><br><br>
 Hi there! My name is Owen. I'm a student developer from Scotland. I work with many different languages but I prefer working with Python and C.
 <br> 

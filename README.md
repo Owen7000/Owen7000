@@ -13,14 +13,14 @@
 
 - 🤝 I’m looking for help with [Programmatrix](https://github.com/Owen7000/Programmatrix)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **My poor life decisions**
 
-- 📫 How to reach me **Owen7000@programmer.net**
+- 📫 How to reach me **Owen7000@programmer.net** Owen3.0#8570 (Discord)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/owen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="owen" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/owen plimer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="owen plimer" height="30" width="40" /></a>
+<!--<a href="https://dev.to/owen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="owen" height="30" width="40" /></a>-->
+<a href="https://www.youtube.com/channel/UCohqyXgnVgi6WUVpyO6y_jQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="owen plimer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

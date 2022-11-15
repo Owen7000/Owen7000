@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Programmatrix](https://github.com/Owen7000/Programmatrix)
 
-- 🤝 I’m looking for help with [Programmatrix](https://github.com/Owen7000/Programmatrix)
+- 🤝 I’m looking for help with [Math 2 Electric Boogaloo](https://github.com/Owen7000/Math2eb)
 
 - 💬 Ask me about **My poor life decisions**
 

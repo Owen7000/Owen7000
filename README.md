@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owen7000" alt="owen7000" /></a> </p>
 
-- 🔭 I’m currently working on [Programmatrix](https://github.com/Owen7000/Programmatrix)
+- 🔭 I’m currently working: on a super secret project 😉
 
-- 🌱 I’m currently learning **C, C#, C++**
+- 🌱 I’m currently learning: **C, C#, C++**
 
-- 👯 I’m looking to collaborate on [Programmatrix](https://github.com/Owen7000/Programmatrix)
+- 👯 I’m looking to collaborate on: [Programmatrix](https://github.com/Owen7000/Programmatrix)
 
-- 🤝 I’m looking for help with [Math 2 Electric Boogaloo](https://github.com/Owen7000/Math2eb)
+- 🤝 I’m looking for help with: [Math 2 Electric Boogaloo](https://github.com/Owen7000/Math2eb)
 
-- 💬 Ask me about **My poor life decisions**
+- 💬 Ask me about: **My poor life decisions**
 
-- 📫 How to reach me **Owen7000@programmer.net** Owen3.0#8570 (Discord)
+- 📫 How to reach me: **Owen7000@programmer.net** Owen3.0#8570 (Discord)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -15,7 +15,7 @@
 
 - 💬 Ask me about: **My poor life decisions**
 
-- 📫 How to reach me: **Owen7000@programmer.net** Owen3.0#8570 (Discord)
+- 📫 How to reach me: **Owen7000@programmer.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

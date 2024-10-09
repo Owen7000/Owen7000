@@ -1,4 +1,15 @@
 [![](https://visitcount.itsvg.in/api?id=owen7000&icon=2&color=11)](https://visitcount.itsvg.in)
+## 🕴️About Me:
+Hi! I'm Owen. I'm a student at Fife College doing my second year HND in software development.
+I write random code when I'm bored, and some of it makes its way on here, so feel free to have a look around and see what you can find.
+I'm trying to develop my skills enough so that I can one day work on the software that runs rockets and satelites. Much of the code I write is based around space
+and data from it.
+
+If you have any questions at all, please don't hesitate to reach out to me!
+Oh also, I have a youtube channel where I post videos of the things that I am most proud of, so feel free to have a look and see if there is something there for you!
+
+Thanks for reading, have a great day!
+
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@owenp8761) 

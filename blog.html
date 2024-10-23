@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Blog</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Style the body */
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+/* Header/logo Title */
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: #F0A500;
+
+  background: linear-gradient(to bottom right, #F0A500, #334756, #082032, #000000);
+        background-size: 400% 400%;
+        animation: bg-gradient 50s ease infinite;
+}
+
+/* Style the top navigation bar */
+.navbar {
+  display: flex;
+  background-color: #333;
+}
+
+/* Style the navigation bar links */
+.navbar a {
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+  text-align: center;
+}
+
+/* Change color on hover */
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Style the currently active bar link */
+.navbar a.active {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Column container */
+.row {  
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Create two unequal columns that sits next to each other */
+/* Sidebar/left column */
+.side {
+  flex: 30%;
+  background-color: #f1f1f1;
+  padding: 20px;
+  position: sticky;
+  top: 0;
+  align-self: flex-start;
+}
+
+/* Main column */
+.main {
+  flex: 70%;
+  background-color: white;
+  padding: 20px;
+}
+
+/* Fake image, just for this example */
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+}
+
+/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 700px) {
+  .row, .navbar {   
+    flex-direction: column;
+  }
+
+  .side {
+    display: none;
+  }
+}
+
+.article {
+    padding: 15px;
+        /* width: 50vw; */
+        margin: auto;
+        border-radius: 15px;
+        text-align: center;
+        transition: transform 300ms ease-out;
+        margin-bottom: 25px;
+
+        box-shadow:
+            rgba(0,0,0,0.1) 0 2px 2px,
+            rgba(0,0,0,0.1) 0 4px 4px,
+            rgba(0,0,0,0.1) 0 8px 8px,
+            rgba(0,0,0,0.1) 0 16px 16px,
+            rgba(0,0,0,0.1) 0 32px 32px,
+            rgba(0,0,0,0.1) 0 64px 64px;
+}
+
+.article:hover {
+    transform: translateY(-5%);
+}
+
+@keyframes bg-gradient {
+        0% {
+            background-position: 0% 50%;
+        }
+
+        50% {
+            background-position: 100% 50%;
+        }
+
+        100% {
+            background-position: 0% 50%;
+        }
+    }
+
+.fakeimg{
+  border-radius: 15px;
+}
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<div class="header">
+  <h1>Owen Plimer</h1>
+  <p>Software with <b>passion</b></p>
+</div>
+
+<!-- Navigation Bar -->
+<div class="navbar">
+  <a href="home.html">Home</a>
+  <a class="active" href="blog.html">Blog</a>
+  <a href="projects.html">Projects</a>
+  <!-- <a href="#">Contact</a> -->
+</div>
+
+<!-- The flexible grid (content) -->
+<div class="row">
+  <div class="side">
+    <h2>About Me</h2>
+    <h5>Photo of me:</h5>
+    <div class="fakeimg" style="height:200px;">Image</div>
+    <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+    <h3>More Text</h3>
+    <p>Lorem ipsum dolor sit ame.</p>
+    <!-- <div class="fakeimg" style="height:60px;">Image</div><br>
+    <div class="fakeimg" style="height:60px;">Image</div><br>
+    <div class="fakeimg" style="height:60px;">Image</div> -->
+  </div>
+  <div class="main">
+    <div class="article" onclick="window.open('blog-post.html')">
+        <h2>TITLE HEADING</h2>
+        <h5>Title description, Dec 7, 2017</h5>
+        <div class="fakeimg" style="height:200px;">Image</div>
+        <p>Some text..</p>
+        <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+    </div>
+
+    <div class="article" onclick="window.open('blog-post.html')">
+      <h2>TITLE HEADING</h2>
+      <h5>Title description, Dec 7, 2017</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Some text..</p>
+      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+  </div>
+
+  <div class="article" onclick="window.open('blog-post.html')">
+    <h2>TITLE HEADING</h2>
+    <h5>Title description, Dec 7, 2017</h5>
+    <div class="fakeimg" style="height:200px;">Image</div>
+    <p>Some text..</p>
+    <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+</div>
+
+<div class="article" onclick="window.open('blog-post.html')">
+  <h2>TITLE HEADING</h2>
+  <h5>Title description, Dec 7, 2017</h5>
+  <div class="fakeimg" style="height:200px;">Image</div>
+  <p>Some text..</p>
+  <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+</div>
+
+<div class="article" onclick="window.open('blog-post.html')">
+  <h2>TITLE HEADING</h2>
+  <h5>Title description, Dec 7, 2017</h5>
+  <div class="fakeimg" style="height:200px;">Image</div>
+  <p>Some text..</p>
+  <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+</div>
+  </div>
+</div>
+
+<!-- Footer -->
+<div class="footer">
+  <p>&copyOwen Plimer 2024</p>
+</div>
+
+</body>
+</html>
+
+

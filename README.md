@@ -1,4 +1,7 @@
-[![](https://visitcount.itsvg.in/api?id=owen7000&icon=2&color=11)](https://visitcount.itsvg.in)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans+ms&duration=1000&pause=500&color=F7B813&multiline=true&width=435&height=60&lines=My+name+is+Owen!;I+do+software)](https://git.io/typing-svg)
+
+
+
 ## 🕴️About Me:
 Hi! I'm Owen. I'm a student at Fife College doing my second year HND in software development.
 I write random code when I'm bored, and some of it makes its way on here, so feel free to have a look around and see what you can find.

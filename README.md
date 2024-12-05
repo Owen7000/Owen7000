@@ -35,5 +35,6 @@ Thanks for reading, have a great day!
 
 ---
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312u4puvzfmh7ibonn7bqb4yyhj4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=312u4puvzfmh7ibonn7bqb4yyhj4&redirect=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

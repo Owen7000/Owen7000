@@ -17,9 +17,8 @@
 
 - ⚡ Fun fact **I play the Trumpet too!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### What I'm listening to
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312u4puvzfmh7ibonn7bqb4yyhj4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=312u4puvzfmh7ibonn7bqb4yyhj4&redirect=true)
 
 ### Connect with me:
 <p align="left">

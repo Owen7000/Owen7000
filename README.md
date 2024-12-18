@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owen7000" alt="owen7000" /></a> </p>
 
-- 🔭 I’m currently working on **HND OOP Sem-1 Java Project**
+- 🔭 I’m currently working on **A Super Secret Procrastination Project**
 
 - 🌱 I’m currently learning **JAVA for Android Development**
 

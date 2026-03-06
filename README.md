@@ -1,36 +1,71 @@
-<h1 align="center">Hi 👋, I'm Owen</h1>
-<h3 align="center">I'm a software development student from Scotland. My main goal is to progress into space systems engineering.</h3>
+<h1 align="center">Owen Plimer</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=owen7000&label=Profile%20views&color=ef25ca&style=flat-square" alt="owen7000" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owen7000" alt="owen7000" /></a> </p>
-
-- 🔭 I’m currently working on **A Super Secret Procrastination Project**
-
-- 🌱 I’m currently learning **JAVA for Android Development**
-
-- 👯 I’m looking to collaborate on **Anything!**
-
-- 👨‍💻 All of my projects are available at [https://fifecomptech.net/~s1761799/personal/projects.php](https://fifecomptech.net/~s1761799/personal/projects.php)
-
-- 📝 I sometimes write articles on [https://fifecomptech.net/~s1761799/personal/blog.php](https://fifecomptech.net/~s1761799/personal/blog.php)
-
-- ⚡ Fun fact **I play the Trumpet too!**
-
-### What I'm listening to
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312u4puvzfmh7ibonn7bqb4yyhj4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=312u4puvzfmh7ibonn7bqb4yyhj4&redirect=true)
-
-### Connect with me:
-<p align="left">
-<a href="https://www.youtube.com/c/owenp8761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="owenp8761" height="30" width="40" /></a>
-<a href="https://fifecomptech.net/~s1761799/personal/rss.php" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://fifecomptech.net/~s1761799/personal/rss.php" height="30" width="40" /></a>
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=owen7000&theme=transparent&hide_border=true&mode=weekly&card_width=50&card_height=170&ring=1084EB&fire=EB5454&currStreakNum=11C35E&currStreakLabel=FFF75B&dates=EBEBEB&hide_total_contributions=true&hide_longest_streak=true" alt="My weekly streak">
 </p>
 
-### Languages and Tools:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+<p align="center">Hello, world!</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=owen7000&show_icons=true&locale=en&layout=compact" alt="owen7000" /></p>
+<p align="justify">Hi! My name is Owen. I am a Year 3 Computing Science Student at Heriot Watt University. I am always trying to learn new things, and on here you can find some of the projects I have done/been involved in.</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=owen7000&show_icons=true&locale=en" alt="owen7000" /></p>
+<p align="justify">My eventual goal is to enter the workplace as a Space Systems Engineer, and I am always looking for ways to make this possible.</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=owen7000&" alt="owen7000" /></p>
+<p align="justify">Sometimes I will post videos of my projects onto my YouTube channel. I don't always do this, however I try to do it every so often.</p>
+
+[You can view my YouTube channel here](https://www.youtube.com/@owenp8761).
+
+## What am I interested in?
+I have a massive interest in two main topics:
+- Trains
+- Spaceflight
+
+<p align="justify">So a lot of my projects are related to one of these topics. Although there is a lot of completely unrelated work, too!</p>
+
+## What am I currently working on?
+I am currently working on a number of side projects.
+1. Artemis II launch countdown: I'm trying to get a full mission timeline app working by the launch of the Artemis II Mission (Thank you Hydrogen, Helium for the extra time :wink:)
+2. Personal Website: Previously I had my own website that had a blog and some information about my Awards, etc. This was hosted on our College PHP server which I no longer have access to. I am aiming to get my new website up and running by Autumn this year. It will have way more features than my previous website
+3. My degree: Felt like it was a good idea to include this here! A lot of my time is spent revising, and trying to better understand content we've been taught. I'm really enjoying the work, and I look forward to what comes next!
+4. GRIDmas Tree: I'm continuing my work on the GRIDmas Tree project. Currently I'm midway through rewriting the Discord bot in JavaScript (No more TypeScript, yay! :tada: (I have nothing against TS, I just prefer JS))
+
+## What do I want to learn next?
+<p align="justify">I'm interested in getting back into Machine Learning. This is something I've dabbled into in the past, but never really did too much. This is the next thing I want to get back into.</p>
+
+## What work am I most proud of?
+
+<p align="center">
+    <img src="https://githubreadmestats-eta.vercel.app/api/pin/?username=owen7000&repo=MarsCam&theme=dark&bg_color=23272A&hide_border=true" alt="MarsCam is a way to grab images from the NASA Mars missions and display them on your desktop">
+</p>
+<p align="center">
+    <img src="https://githubreadmestats-eta.vercel.app/api/pin/?username=owen7000&repo=pypiglatin&theme=dark&bg_color=23272A&hide_border=true" alt="Pypiglatin is my English to Pig Latin translator written in Python">
+</p>
+
+## How do I contact you?
+Good question!
+
+<p align="justify">I'm always happy to chat to anyone about anything! If you want to do a project together, have a suggestion for a change or improvement on something, or just want to chat about an interest, you can get in touch with me in two main ways</p>
+
+| Discord | Email |
+| ------- | ----- |
+| [owenp_space](https://discordapp.com/users/YourUserID) | owen@plimsoft.co.uk |
+
+## Account Stats
+
+<p align="center">
+    <img src="https://githubreadmestats-eta.vercel.app/api?username=owen7000&show_icons=true&commits_year=2026&theme=dark&bg_color=23272A&hide_border=true" alt="My GitHub account stats (On a self hosted instance)">
+</p>
+
+<p align="center">
+    <img src="https://githubreadmestats-eta.vercel.app/api/top-langs/?username=owen7000&langs_count=6&hide=cython&layout=donut-vertical&theme=dark&bg_color=23272A&hide_border=true" alt="My most used languages (On a self hosted instance)">
+</p>
+
+<p align="center">
+    <img src="https://github-profile-trophy-ivory-two.vercel.app/?username=owen7000&theme=discord&column=3&margin-w=15&margin-h=15&no-bg=false&no-frame=true" alt="My Github Profile Trophies (On a self hosted instance)">
+</p>
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=Owen7000&theme=oceanic-next&date_format=j%20M%5B%20Y%5D&mode=weekly&background=23272A" alt="My GitHub streak stats">
+</p>
+
+## What I'm currently listening to
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312u4puvzfmh7ibonn7bqb4yyhj4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true&mode=dark&background_color=23272A)](https://spotify-github-profile.kittinanx.com/api/view?uid=312u4puvzfmh7ibonn7bqb4yyhj4&redirect=true)

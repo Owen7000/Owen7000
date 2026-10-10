@@ -6,7 +6,7 @@
 
 <p align="center">Hello, world!</p>
 
-<p align="justify">Hi! My name is Owen. I am a Year 3 Computing Science Student at Heriot Watt University. I am always trying to learn new things, and on here you can find some of the projects I have done/been involved in.</p>
+<p align="justify">Hi! My name is Owen. I am a Year 4 Software Engineering MEng Student at Heriot Watt University. I am always trying to learn new things, and on here you can find some of the projects I have done/been involved in.</p>
 
 <p align="justify">My eventual goal is to enter the workplace as a Space Systems Engineer, and I am always looking for ways to make this possible.</p>
 
